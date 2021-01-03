@@ -19,3 +19,5 @@ Codewars - сайт для решения разнообразных задач,
 | [1-4 dan](https://www.codewars.com/about) |   Эксперт    |
 
 [Мой ранг](https://www.codewars.com/users/Vakhno):
+
+<img src=https://www.codewars.com/users/Vakhno/badges/large>
